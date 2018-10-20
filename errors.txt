@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/house.rpy", line 56: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "Knock."
+            ^
+
+Ren'Py Version: Ren'Py 7.0.0.196
+Fri Oct 19 23:01:56 2018
